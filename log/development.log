@@ -1,0 +1,8 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-05 20:55:42) [GET]
+
+ActionController::RoutingError (No route matches "/cv.pdf" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
