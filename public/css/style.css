@@ -27,6 +27,6 @@ footer{text-align: center}
   background-image: url(../img/twitter.png);
   background-position: 0 0;
 }
-a {
+a, a:hover {
   color: #F63;
 }
