@@ -30,3 +30,7 @@ footer{text-align: center}
 a, a:hover {
   color: #F63;
 }
+p.location {
+  margin-top: 16px;
+  margin-bottom: 0px;
+}
