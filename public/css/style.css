@@ -1,4 +1,17 @@
-.container {padding: 20px 0 0 0}
+body {
+  background-color: #EDC;
+}
+.container {
+  padding: 20px 0 0 0;
+}
+.container#main {
+  border: solid 1px;
+  border-top: 0px;
+  border-bottom-left-radius: 5px;
+  padding-bottom: 10px;
+  border-bottom-right-radius: 5px;
+  background-color: #FFF;
+}
 .hero-unit{background: #FFF;padding: 0}
 .page-header{clear: both; }
 footer{text-align: center}
@@ -14,6 +27,10 @@ footer{text-align: center}
   background-image: url(../img/twitter.png);
   background-position: 0 0;
 }
-a {
+a, a:hover {
   color: #F63;
+}
+p.location {
+  margin-top: 16px;
+  margin-bottom: 0px;
 }
