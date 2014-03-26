@@ -21,4 +21,10 @@ a, a:hover {
 p.location {
   margin-top: 16px;
   margin-bottom: 0px;
+}    
+.icon-keybase {
+  width: 16px;
+  height: 16px;
+  background-image: url(../img/keybase.png);
+  background-position: 0 0;
 }
