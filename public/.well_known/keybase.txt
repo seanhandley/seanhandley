@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/seanhandley
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://seanhandley.com
+  * I am seanhandley (https://keybase.io/seanhandley) on keybase.
+  * I have a public key with fingerprint 3D5A 1E2C 0F9D 2EC2 C5F6  7AFE 07AB 1775 EF12 6F8D
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "3d5a1e2c0f9d2ec2c5f67afe07ab1775ef126f8d",
+            "host": "keybase.io",
+            "key_id": "07ab1775ef126f8d",
+            "uid": "e720f5a4cce9c60f94538d30959e7100",
+            "username": "seanhandley"
+        },
+        "service": {
+            "hostname": "seanhandley.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1395869757,
+    "expire_in": 157680000,
+    "prev": "e87facfffa0cf5697492538a53d126581500cfeda20b7ac31c846871382eb1d1",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHhAnicbVFvSBNvHN/y94scuKyRhKbRRUS17P7s2d1Wgv5YEUJONIRAm8+ee84d
+zbt5O6drzOxFvorIEP+hWS9804sCySIsXVmhSGtlIpUIBhYkFYqEmZDPSb9XdW+O
+7/fz7/nwfZqRZrKYb6MUfWXAPmmeSKzUm8q5kwUxyq+KUcodo87hjZ8kKzVYC2my
+olNuihMBZDCLaMklshixCEhOHkqY5qGf4XmAJYZ1SoJI2amAGjYUxMYPwzhfVsmO
+DD5ZJNu/8Os3AMyztASgAyHsQk4S4wCcIHK0C7gwz9C0QQxjTYG1mLDDGCoBqIhB
+8ta4nYxaREYEiG2k/0nKR2otcQhpqq4iNUjAgK6H3IZWj4YMcgP2+37b+PyyIpL2
+RBDBWlhWFcrNECbSZcOX4VxAcLp4wNsp3BiSNeyTDQbgnQJNPiMGR4xKAi9BJEkS
+pJEEiMLhYkkpCDiRlAcCA2gCYBGytJ+HiGOQ4HAKPMMJLPYzIkPyw7hOUYk3idJh
+jdFJrlGgXq9hKv4kUfmPyWwxbf53k3FAkyU98/+z5nm3mG7Yj1kP4IG40DPSdGnZ
+5u5eVUa9tuzvF48fHp3b2jn81tq42hr9ON3+pnklWfS1tbgvj5/Naxh72PSz2MbB
+nTu2l/bHPrwc+wSC5yvmh7KuT6euztsmn706W+KtpjwzOcmlPVNfOkq505GbZYP4
+eU9/quPXmfemH5ayy7d2g+5e80LnnfT9id7Xi4FgsNjbXueZacm8sBTP3bbQgnVm
+bZmu3tV2cDp92JFlqz7Rtzj4rq2u0frZc02NFjSvru17kVs+4ilJNkxlLVTlpAqr
+vt0/1TWX7OnscIxX7rUq40eE/q6Cu2ldGY9sjwtn/wtWZPCJ8qJ7DyayHUfpQ0Pr
+TbgU0A==
+=9ASm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/seanhandley
+
+==================================================================
