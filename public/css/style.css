@@ -1,5 +1,5 @@
 body {
-  background-color: #EDC;
+  background-color: #ABDFA6;
 }
 .container {
   padding: 20px 0 0 0;
@@ -16,7 +16,7 @@ body {
 .page-header{clear: both; }
 footer{text-align: center}
 a, a:hover {
-  color: #F63;
+  color: #4D8F8A;
 }
 p.location {
   margin-top: 16px;
