@@ -26,7 +26,7 @@
                     <img class="me" src="images/me.png" alt="" style="height:220px;width:auto;display:none"/>
                 </div>
                 <div class="hero-unit span4">
-                    <h1>Sean Handley</h1>
+                    <h1 class='my-name'>Sean Handley</h1>
                     <h2 class='job-title'>Cloud Developer.</h2>
                     <p class="location">
                         <i class="icon-map-marker"></i>
@@ -83,11 +83,13 @@
                 $('img.rswn').show();
                 $('img.me').hide();
                 $('.job-title').text('Rockstar Wizard Ninja.')
+                $('.my-name').text('Dimebag Gandolf Li')
                 setTimeout(function() {
                     $('img.rswn').fadeOut(2000)
                     setTimeout(function() {
                       $('img.me').show();
                       $('.job-title').text('Cloud Developer.');
+                      $('.my-name').text('Sean Handley');
                       window.location.href = 'http://seanhandley.com';
                   }, 2000);
                 }, 2000);
