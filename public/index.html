@@ -22,12 +22,12 @@
         <div class="container" id="main">
             <div class="span8">
                 <div class="thumbnail span3">
-                    <img class="rswn" src="images/rockstarwizardninja.jpg" alt="" style="height:220px;width:auto"/>
-                    <img class="me" src="images/me.png" alt="" style="display:none"/>
+                    <img class="rswn" src="images/rockstarwizardninja.jpg" alt="" style="height:220px;width:auto;display:none"/>
+                    <img class="me" src="images/me.png" alt="" />
                 </div>
                 <div class="hero-unit span4">
                     <h1>Sean Handley</h1>
-                    <h2 class='job-title'>Rockstar Wizard Ninja.</h2>
+                    <h2 class='job-title'>Cloud Developer.</h2>
                     <p class="location">
                         <i class="icon-map-marker"></i>
                         Manchester, UK
@@ -79,13 +79,18 @@
         </script>
         <script>
         $(document).ready(function() {
-            setTimeout(function() {
-                $('img.rswn').fadeOut(2000)
+            if(window.location.href.indexOf('rockstarwizard.ninja') != 0) {
+                $('img.rswn').show();
+                $('img.me').hide();
+                ('.job-title').text('Rockstar Wizard Ninja.')
                 setTimeout(function() {
-                  $('img.me').show();
-                  $('.job-title').text('Cloud Developer.')
-              }, 2000);
-            }, 1000);
+                    $('img.rswn').fadeOut(2000)
+                    setTimeout(function() {
+                      $('img.me').show();
+                      $('.job-title').text('Cloud Developer.')
+                  }, 2000);
+                }, 1000);
+            }
         });
         </script>
     </body>
