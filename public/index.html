@@ -23,7 +23,7 @@
             <div class="span8">
                 <div class="thumbnail span3">
                     <img class="rswn" src="images/rockstarwizardninja.jpg" alt="" style="height:220px;width:auto;display:none"/>
-                    <img class="me" src="images/me.png" alt="" />
+                    <img class="me" src="images/me.png" alt="" style="height:220px;width:auto;display:none"/>
                 </div>
                 <div class="hero-unit span4">
                     <h1>Sean Handley</h1>
@@ -91,6 +91,8 @@
                       window.location.href = 'http://seanhandley.com';
                   }, 2000);
                 }, 2000);
+            } else {
+                $('img.me').show();
             }
         });
         </script>
