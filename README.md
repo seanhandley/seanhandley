@@ -1,3 +1,3 @@
 # Hello! 👋
 
-I'm Sean, a software developer from the UK, working on the platform team @ [Stuart Delivery](https://github.com/StuartApp).
+I'm Sean from the UK, working on the engineering team @ [Stuart Delivery](https://github.com/StuartApp).
